@@ -1,7 +1,5 @@
 # Module 15: Trustworthy AI Explainer Dashboard
 # Requirements for the Streamlit app (streamlit_app_template.py).
-# Streamlit Community Cloud installs this file on deploy.
-# The Gradio prototype has its own file: requirements-gradio.txt
 
 # CPU-only PyTorch wheels (much smaller than the default CUDA build)
 --extra-index-url https://download.pytorch.org/whl/cpu
